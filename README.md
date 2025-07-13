@@ -5,7 +5,7 @@
 
 </p>
 
-- 🔭 I’m currently working on **my own Logistis Project**
+- 🔭 I’m currently working on **my own Logistics Project**
 
 - 🌱 I’m currently learning **React JS**
 
